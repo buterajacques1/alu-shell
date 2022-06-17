@@ -12,4 +12,3 @@ echo "$minutes"
 done
 ((hour++))
 done
-© 2022 GitHub, Inc.
